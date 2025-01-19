@@ -1,0 +1,31 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable baseline_hearing_disabled
+drawable chat_bubble_assistant
+drawable chat_bubble_user
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable round_clear_24
+drawable rounded_add_24
+drawable rounded_delete_24
+drawable rounded_volume_mute_24
+drawable rounded_volume_off
+drawable rounded_volume_up
+id btnClear
+id btnMute
+id btnSpeak
+id fabNewChat
+id linearLayout
+id scrollView
+id tvStatus
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_foreground
+mipmap ic_launcher_round
+string app_name
+style Base.Theme.NovaBot
+style Theme.NovaBot
+xml backup_rules
+xml data_extraction_rules
